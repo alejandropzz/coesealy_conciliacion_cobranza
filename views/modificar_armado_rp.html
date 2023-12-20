@@ -1,0 +1,114 @@
+<!--breadcrumbs start-->
+<div id="breadcrumbs-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <h5 class="breadcrumbs-title">Modificar Armado RP</h5>
+                <ol class="breadcrumbs">
+                    <li></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<!--breadcrumbs end-->
+
+<!--start container-->
+<div class="container">
+    <div class="row">
+        <div class="col l3">
+            <form>
+                <label for="imput_uuid">UUID:</label><br>
+                <input type="text" id="imput_uuid" name="imput_uuid"><br>
+            </form>
+        </div>
+
+        <div class="col l3">
+            <br/>
+            <button id="botonConsultar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='consultar( $("#imput_uuid").val())'>Consultar</button>
+        </div>
+        <div class="col l3">
+            <br/>
+            <button id="botonActualizar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='actualizar()'>Actualizar</button>
+        </div>
+    </div>
+    <label >Cfdi:</label>
+    <div class="row">
+            <style>
+                table{
+                    font-size: 9pt;
+                    line-height: 1;
+
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+            <div id="progresoVerCfdi"></div>
+            <table class="striped" id="tablaVerCfdi">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th>ID</th>
+                    <th>Fecha</th>
+                    <th>Folio</th>
+                    <th>Serie</th>
+                    <th>Nombre Emisor</th>
+                    <th>Nombre Receptor</th>
+                    <th class='right-align'>Total</th>
+                    <th>UUID</th>
+                </tr>
+                </thead>
+                <tbody id="tablaVerCfdiBody">
+
+                </tbody>
+            </table>
+            <div id="msgDivVerCfdi"></div>
+
+    </div>
+
+    <label >Reporte de Pago:</label>
+    <div class="row">
+        <div class="col s12 white" style="min-height: 200px;" id="polizaContainerverReportePago">
+            <style>
+                table{
+                    font-size: 9pt;
+                    line-height: 1;
+
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+            <div id="progresoVerReportePago"></div>
+            <table class="striped" id="tablaVerReportePago">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th class='left-align'>Uuid</th>
+                    <th class='left-align'>Fecha de pago</th>
+                    <th class='left-align'>RFC</th>
+                    <th class='left-align'>Cuenta</th>
+                    <th class='left-align'>Importe de Factura</th>
+                </tr>
+                </thead>
+                <tbody id="tablaVerReportePagoBody">
+
+                </tbody>
+            </table>
+            <div id="msgDivVerReportePago"></div>
+        </div>
+    </div>
+
+
+</div>
+
+<script type="text/javascript" src="/coesealy-conciliacion-cobranza/js/modules/consultarArmadoRP.js"></script>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $("#mnuEstadoCta").addClass("active");
+            $('select').material_select();
+        });
+    </script>

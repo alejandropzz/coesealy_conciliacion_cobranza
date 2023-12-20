@@ -1,0 +1,232 @@
+<!--breadcrumbs start-->
+<div id="breadcrumbs-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <h5 class="breadcrumbs-title">Ligar Manual CFDI-RP</h5>
+                <ol class="breadcrumbs">
+                    <li>Buscar Cfdis</li>
+
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<!--breadcrumbs end-->
+
+
+<!--start container-->
+<div class="container">
+    <div class="row">
+        <div class="col l2">
+            <select id="mes">
+                <option selected disabled>Seleccione un Mes</option>
+                <option value="1">Ene</option>
+                <option value="2">Feb</option>
+                <option value="3">Mar</option>
+                <option value="4">Abr</option>
+                <option value="5">May</option>
+                <option value="6">Jun</option>
+                <option value="7">Jul</option>
+                <option value="8">Ago</option>
+                <option value="9">Sep</option>
+                <option value="10">Oct</option>
+                <option value="11" selected>Nov</option>
+                <option value="12">Dic</option>
+            </select>
+            <select id="year">
+                <option selected disabled>Seleccione un Año</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019" selected>2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+
+            </select>
+        </div>  <!--MES-->
+        <div class="col l2">
+            <br/>
+            <button id="botonBuscarCfdis" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='getCfdisNoLigadosPeriodo($("#mes").val(), $("#year").val())'>Buscar Cfdis</button>
+        </div>  <!--BOTON BUSCAR CFDIS-->
+        <div class="col l2">
+            <br/>
+            <button id="botonOcultarCfdis" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='ocultarCfdis()'>Ocultar Cfdis</button>
+        </div>  <!--BOTON OCULTAR CFDIS-->
+        <div class="col l2">
+            <br/>
+            <button id="botonBuscarPagos" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='getPagosNoLigados()'>Mostrar Pagos:</button>
+        </div><!--BOTON BUSCAR PAGOS-->
+        <div class="col l2">
+            <br/>
+            <button id="botonOcultarPagos" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='ocultarPagos()'>Ocultar Pagos:</button>
+        </div><!--BOTON OCULTAR PAGOS-->
+        <div class="col l2">
+            <br/>
+            <button id="botonLigar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='ligarPagosCfdi()'>Ligar</button>
+        </div>  <!--BOTON LIGAR-->
+        <div class="col l2">
+            <br/>
+            <button id="botonRefrescar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='actualizar()'>Actualizar</button>
+        </div>  <!--BOTON ACTUALIZAR-->
+    </div>
+
+    <div class="row">
+        <div class="col s12 white" style="min-height: 60px;">
+            <style>
+                table
+                {
+                    font-size: 9pt;
+                    line-height: 1;
+                }
+                td
+                {
+                    padding: 2px !important;
+                }
+            </style>
+            <h7>Pagos Seleccionados</h7>
+            <table class="striped" id="tablaPagoSeleccionado">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th class='left-align'>Fecha de Pago</th>
+                    <th class='left-align'>NO. PROVEEDOR</th>
+                    <th class='left-align'>RFC</th>
+                    <th class='left-align'>NOMBRE DEL PROVEEDOR </th>
+                    <th class='left-align'>NUMERO DE FACTURA</th>
+                    <th class='left-align'>IMPORTE DE FACTURA</th>
+                    <th class='left-align'>IMPORTE DE PAGO</th>
+                    <th class='left-align'>TRASPASOS</th>
+                    <th class='left-align'>Base de IVA</th>
+                    <th class='left-align'>IVA 16%</th>
+                    <th class='left-align'>UUID FACTURA</th>
+                    <th></th>
+
+                </tr>
+                </thead>
+                <tbody id="tablaPagoSeleccionadoBody">
+                </tbody>
+            </table>
+
+        </div>
+    </div>  <!-- FACTURA SELECCIONADA -->
+    <div class="row">
+        <div class="col s12 white" style="min-height: 100px;">
+            <style>
+                table
+                {
+                    font-size: 9pt;
+                    line-height: 1;
+                }
+                td
+                {
+                    padding: 2px !important;
+                }
+            </style>
+            <h7>CFDI Seleccionado</h7>
+            <table class="striped" id="tablaCfdiSeleccionado">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th class='left-align'>Fecha de Emision</th>
+                    <th class='left-align'>RFC Emisor</th>
+                    <th class='left-align'>TOTAL</th>
+                    <th class='left-align'>UUID</th>
+                    <th></th>
+
+                </tr>
+                </thead>
+                <tbody id="tablaCfdiSeleccionadoBody">
+                </tbody>
+            </table>
+
+        </div>
+    </div>  <!--CFDI SELECCIONADO -->
+    <div class="row">
+        <div class="col s12 white" style="min-height: 0px;">
+            <style>
+                table{
+                    font-size: 50pt;
+                    line-height: 40;
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+
+
+            <table class="striped" id="tablaPagos">
+                <thead>
+                <tr>
+                    <th class='left-align'>check</th>
+                    <th class='left-align'>#</th>
+                    <th class='left-align'>Fecha de Pago</th>
+                    <th class='left-align'>NO. PROVEEDOR</th>
+                    <th class='left-align'>RFC</th>
+                    <th class='left-align'>NOMBRE DEL PROVEEDOR </th>
+                    <th class='left-align'>NUMERO DE FACTURA</th>
+                    <th class='left-align'>IMPORTE DE FACTURA</th>
+                    <th class='left-align'>IMPORTE DE PAGO</th>
+                    <th class='left-align'>TRASPASOS</th>
+                    <th class='left-align'>Base de IVA</th>
+                    <th class='left-align'>IVA 16%</th>
+                    <th class='left-align'>UUID FACTURA</th>
+                    <th></th>
+
+                </tr>
+                </thead>
+                <tbody id="tablaPagosBody">
+                </tbody>
+            </table>
+            <div id="msgDivPagos"></div>
+        </div>
+    </div>  <!--TABLA PAGOS -->
+    <div class="row">
+        <div class="col s12 white" style="min-height: 50px;">
+            <style>
+                table{
+                    font-size: 9pt;
+                    line-height: 1;
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+
+
+            <table class="striped" id="tablaCfdis" >
+                <thead>
+                <tr>
+                    <th class='left-align'>check</th>
+                    <th class='left-align'>#</th>
+                    <th class='left-align'>Fecha de Emision</th>
+                    <th class='left-align'>RFC Emisor</th>
+                    <th class='left-align'>TOTAL</th>
+                    <th class='left-align'>UUID</th>
+                    <th></th>
+
+                </tr>
+                </thead>
+                <tbody id="tablaCfdisBody">
+
+                </tbody>
+            </table>
+            <div id="msgDivCfdis"></div>
+        </div>
+    </div>  <!--TABLA CFDIs -->
+</div>
+
+<script type="text/javascript" src="/coesealy-conciliacion-cobranza/js/modules/ligaManualRP.js"></script>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $("#mnuEstadoCta").addClass("active");
+            $('select').material_select();
+        });
+    </script>

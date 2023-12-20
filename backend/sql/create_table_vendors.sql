@@ -1,0 +1,36 @@
+DROP TABLE vendors;
+
+CREATE TABLE vendors(
+    company             VARCHAR(50) NOT NULL, 
+    vendor_code         VARCHAR(8) NOT NULL,
+    vendor_rfc          VARCHAR(20) NOT NULL,
+    lastname_pater      VARCHAR(60),
+    lastname_mater      VARCHAR(60),
+    name_individual     VARCHAR(60),
+    name_company        VARCHAR(150),
+    street              VARCHAR(40),
+    suburb              VARCHAR(40),
+    estate              VARCHAR(30),
+    country             VARCHAR(65),
+    municipality        VARCHAR(65),
+    cp                  VARCHAR(8),
+    phone               VARCHAR(20),
+    fax                 VARCHAR(20),
+    bank                VARCHAR(20),
+    account_no          VARCHAR(20),
+    clabe_interbank     VARCHAR(25),
+    bank_2              VARCHAR(20),
+    account_no_2        VARCHAR(20),
+    clabe_interbank_2   VARCHAR(25),
+    email               VARCHAR(30),
+    service_g           VARCHAR(35),
+    pf_pm               VARCHAR(2)  NOT NULL,
+    thirdparty_class    VARCHAR(15) NOT NULL,
+    operation_class     VARCHAR(25) NOT NULL,
+    residing_country    VARCHAR(65) NOT NULL,
+    nationality         VARCHAR(10), 
+    notes               text,
+
+    CONSTRAINT pk_vcode PRIMARY KEY (vendor_code),
+    CONSTRAINT rfc_unique UNIQUE (vendor_rfc)
+);

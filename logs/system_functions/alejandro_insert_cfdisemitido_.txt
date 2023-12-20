@@ -1,0 +1,1 @@
+alejandro|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|25-05-2020 0:50:40|

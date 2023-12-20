@@ -1,0 +1,158 @@
+<!--breadcrumbs start-->
+<div id="breadcrumbs-wrapper">
+
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <h5 class="breadcrumbs-title">Consultar Armado</h5>
+                <ol class="breadcrumbs">
+                    <li></li>
+
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<!--breadcrumbs end-->
+
+
+<!--start container-->
+<div class="container">
+    <div class="row">
+        <div class="col l3">
+            <form>
+                <label for="folio">Numero de Folio:</label><br>
+                <input type="text" id="folio" name="folio"><br>
+            </form>
+        </div>
+
+        <div class="col l3">
+            <br/>
+            <button id="botonConsultar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='consultar( $("#folio").val())'>Consultar</button>
+        </div>
+        <div class="col l3">
+            <br/>
+            <button id="botonActualizar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='actualizar()'>Actualizar</button>
+        </div>
+    </div>
+    <label >Cfdi:</label>
+    <div class="row">
+            <style>
+                table{
+                    font-size: 9pt;
+                    line-height: 1;
+
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+            <div id="progresoVerCfdi"></div>
+            <table class="striped" id="tablaVerCfdi">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th>ID</th>
+                    <th>Fecha</th>
+                    <th>Folio</th>
+                    <th>Serie</th>
+                    <th>Nombre Emisor</th>
+                    <th>Nombre Receptor</th>
+                    <th class='right-align'>Total</th>
+                    <th>UUID</th>
+                </tr>
+                </thead>
+                <tbody id="tablaVerCfdiBody">
+
+                </tbody>
+            </table>
+            <div id="msgDivVerCfdi"></div>
+
+    </div>
+
+    <label >Factura:</label>
+    <div class="row">
+            <style>
+                table{
+                    font-size: 9pt;
+                    line-height: 1;
+
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+            <div id="progresoVerCuentasCobrar"></div>
+            <table class="striped" id="tablaVerCuentasCobrar">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th class='left-align'>Number Folio</th>
+                    <th class='left-align'>Customer Name</th>
+                    <th class='left-align'>Date</th>
+                    <th class='right-align'>Receivable</th>
+                    <th class='left-align'>Tipo</th>
+                    <th class='left-align'>UUID</th>
+                    <th class='left-align'>Comentarios</th>
+
+                </tr>
+                </thead>
+                <tbody id="tablaVerCuentasCobrarBody">
+
+                </tbody>
+            </table>
+            <div id="msgDivVerCuentasCobrar"></div>
+
+    </div>
+
+    <label >Cobranza:</label>
+    <div class="row">
+        <div class="col s12 white" style="min-height: 200px;" id="polizaContainerverReporteCobranza">
+            <style>
+                table{
+                    font-size: 9pt;
+                    line-height: 1;
+
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+            <div id="progresoVerReporteCobranza"></div>
+            <table class="striped" id="tablaVerReporteCobranza">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th class='left-align'>Folio</th>
+                    <th class='left-align'>Invoice Date</th>
+                    <th class='left-align'>Deposit Date</th>
+                    <th class='left-align'>Check Number</th>
+                    <th class='left-align'>Invoice Amount</th>
+                    <th class='left-align'>Payment Amount</th>
+                    <th class='left-align'>Invoice Balance</th>
+                    <th class='left-align'>Age Days</th>
+                    <th class='left-align'>Gl account</th>
+                    <th class='left-align'>Comentarios</th>
+                    <th class='left-align'>Cuenta</th>
+                </tr>
+                </thead>
+                <tbody id="tablaVerReporteCobranzaBody">
+
+                </tbody>
+            </table>
+            <div id="msgDivVerReporteCobranza"></div>
+        </div>
+    </div>
+
+
+</div>
+
+<script type="text/javascript" src="/coesealy-conciliacion-cobranza/js/modules/consultarArmado.js"></script>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $("#mnuEstadoCta").addClass("active");
+            $('select').material_select();
+        });
+    </script>

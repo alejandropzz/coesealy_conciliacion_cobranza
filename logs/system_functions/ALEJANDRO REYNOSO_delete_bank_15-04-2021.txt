@@ -1,0 +1,7 @@
+ALEJANDRO REYNOSO|ERROR|FAILED TO DELETE BANK|Compañia:123PZ Banco:PASJ Numero de cuenta:1242344 ID cuenta:123 Estado:1|["42S22",1054,"Unknown column 'compania' in 'field list'"]|15-04-2021 21:19:45|15-04-2021
+ALEJANDRO REYNOSO|ERROR|FAILED TO DELETE BANK|Compañia:1111 Banco:111 Numero de cuenta:11 ID cuenta:1 Estado:1|["42S22",1054,"Unknown column 'compania' in 'field list'"]|15-04-2021 21:23:47|15-04-2021
+ALEJANDRO REYNOSO|ERROR|FAILED TO DELETE BANK|Compañia:1111 Banco:111 Numero de cuenta:11 ID cuenta:11 Estado:1|["42S22",1054,"Unknown column 'compania' in 'field list'"]|15-04-2021 21:26:32|15-04-2021
+ALEJANDRO REYNOSO|OK|NOT EXIST BANK|OK|15-04-2021 21:29:50|15-04-2021
+ALEJANDRO REYNOSO|OK|GET BANK|Compañia:1111 Banco:111 Numero de cuenta:11 ID cuenta:1 Estado:1|OK|15-04-2021 21:30:05|15-04-2021
+ALEJANDRO REYNOSO|OK|GET BANK|Compañia: Banco: Numero de cuenta: ID cuenta:1 Estado:|OK|15-04-2021 21:31:43|15-04-2021
+ALEJANDRO REYNOSO|OK|DELETE BANK|Compañia: Banco: Numero de cuenta: ID cuenta:1 Estado:|OK|15-04-2021 21:31:43|15-04-2021

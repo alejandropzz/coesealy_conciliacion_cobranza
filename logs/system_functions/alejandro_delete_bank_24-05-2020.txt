@@ -1,0 +1,3 @@
+alejandro|OK|NOT EXIST BANK|OK|24-05-2020 19:08:27|24-05-2020
+alejandro|OK|GET BANK|Compañia: Banco: Numero de cuenta: ID cuenta:4892 Estado:|OK|24-05-2020 19:15:40|24-05-2020
+alejandro|OK|DELETE BANK|Compañia: Banco: Numero de cuenta: ID cuenta:4892 Estado:|OK|24-05-2020 19:15:40|24-05-2020

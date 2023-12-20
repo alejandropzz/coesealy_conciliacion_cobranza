@@ -1,0 +1,48 @@
+[
+    {
+        "name": "fusonic/linq",
+        "version": "v2.0.4",
+        "version_normalized": "2.0.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/fusonic/linq.git",
+            "reference": "065bfd32674875c9b5df25d29bfe4aa3b073c88f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/fusonic/linq/zipball/065bfd32674875c9b5df25d29bfe4aa3b073c88f",
+            "reference": "065bfd32674875c9b5df25d29bfe4aa3b073c88f",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.0"
+        },
+        "time": "2017-09-28T11:13:31+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Fusonic\\Linq": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fusonic",
+                "homepage": "http://www.fusonic.net"
+            }
+        ],
+        "description": "LINQ 2 objects class for PHP",
+        "homepage": "http://fusonic.github.io/fusonic-linq/",
+        "keywords": [
+            "linq",
+            "linq2objects"
+        ]
+    }
+]

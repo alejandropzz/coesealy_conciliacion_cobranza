@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogocuentas:Catalogo Version="1.1" RFC="SCM991217AU7" Mes="5" Anio="2018" Sello="" noCertificado="" Certificado="" xsi:schemaLocation="www.sat.gob.mx/esquemas/ContabilidadE/1_1/CatalogoCuentas http://www.sat.gob.mx/esquemas/ContabilidadE/1_1/CatalogoCuentas/CatalogoCuentas_1_1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:catalogocuentas="www.sat.gob.mx/esquemas/ContabilidadE/1_1/CatalogoCuentas">
+	<catalogocuentas:Ctas CodAgrup="101.01" NumCta="1120-1000-1000-0050-0000" Desc="Caja Chica" SubCtaDe="1120-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="101.01" NumCta="1120-1000-1000-0050-2756" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="101.01" NumCta="1120-1000-1000-0060-0000" Desc="Caja Chica" SubCtaDe="1120-1000-1000-0060" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="101.01" NumCta="1120-1000-1000-0435-0013" Desc="Caja Chica" SubCtaDe="1120-1000-1000-0435" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-0000" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-0239" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-2750" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-2751" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-2752" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-2753" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-2755" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-2756" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0010-2754" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0050-2750" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0050-2751" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0050-2752" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0050-2753" Desc="Bancos Nacionales" SubCtaDe="1120-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-1000-1000-0050-2755" Desc="Disb Cash- Mexico  Bancomer TP" SubCtaDe="1120-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1120-9999-1000-0010-2750" Desc="Bancos Nacionales" SubCtaDe="1120-9999-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="1153-1000-1000-0050-2753" Desc="Disb Cash- Mexico  Bancomer TP" SubCtaDe="1153-1000-1000-0050" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="102.01" NumCta="4002-1000-1000-0010-2754" Desc="Disb Cash- Mexico  Bancomer TP" SubCtaDe="4002-1000-1000-0010" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="103" NumCta="1120-1000-1000-0090-2750" Desc="Inversiones" SubCtaDe="1120-1000-1000-0090" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="103" NumCta="1120-1000-1000-0090-2751" Desc="Inversiones" SubCtaDe="1120-1000-1000-0090" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="103" NumCta="1120-1000-1000-0090-2752" Desc="Inversiones" SubCtaDe="1120-1000-1000-0090" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105" NumCta="1120-1000-1000-0100-0001" Desc="Clientes" SubCtaDe="1120-1000-1000-0100" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105" NumCta="1120-1000-1000-0100-0000" Desc="Clientes" SubCtaDe="1120-1000-1000-0100" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105" NumCta="1120-1000-1000-0100-2750" Desc="Clientes" SubCtaDe="1120-1000-1000-0100" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105" NumCta="1120-1000-1000-0102-0000" Desc="Clientes" SubCtaDe="1120-1000-1000-0102" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105" NumCta="1120-1000-1000-0187-0000" Desc="Anticipos de Clientes" SubCtaDe="1120-1000-1000-0187" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105" NumCta="1120-1000-1000-0180-0000" Desc="Anticipos de Clientes" SubCtaDe="1120-1000-1000-0180" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105.03" NumCta="1153-1000-1000-0800-1120" Desc="Intercompany" SubCtaDe="1153-1000-1000-0800" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="105.03" NumCta="1120-1000-1000-0800-1120" Desc="Intercompany" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="107" NumCta="1120-1000-1000-0115-0000" Desc="Deudores diversos (siniestros x recuperar)" SubCtaDe="1120-1000-1000-0115" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="107" NumCta="1120-1000-1000-0115-2750" Desc="Venta a Empleados" SubCtaDe="1120-1000-1000-0115" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="107" NumCta="1120-1000-1000-0120-0000" Desc="Deudores diversos (empleados)" SubCtaDe="1120-1000-1000-0120" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="107" NumCta="1120-1000-1000-0120-0001" Desc="Deudores diversos (empleados)" SubCtaDe="1120-1000-1000-0120" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="107" NumCta="1120-1000-4300-2180-0000" Desc="Deudores diversos (empleados)" SubCtaDe="1120-1000-4300-2180" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="108" NumCta="1120-1000-1000-0110-0000" Desc="Reserva de cuentas incobrables" SubCtaDe="1120-1000-1000-0110" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="108" NumCta="1120-1000-1000-0111-0000" Desc="Reserva de descuentos por pronto pago" SubCtaDe="1120-1000-1000-0111" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="108" NumCta="1120-1000-1000-0112-0000" Desc="Reserva Acomodation y Retornos (garantias)" SubCtaDe="1120-1000-1000-0112" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="109.01" NumCta="1120-1000-1000-0350-0167" Desc="Anticipo para gastos de polizas de seguros (amortizacion)" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="109.05" NumCta="1120-1000-2500-5410-0000" Desc="Rentas pagadas por anticipado" SubCtaDe="1120-1000-2500-5410" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="109.23" NumCta="1120-1000-1000-0350-0113" Desc="Impuesto predial" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="113.08" NumCta="1120-1000-1000-0350-4904" Desc="Prepaid Exp-Income Taxes" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.01" NumCta="1120-1000-1000-0220-0099" Desc="Inventario" SubCtaDe="1120-1000-1000-0220" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.01" NumCta="1120-1000-1000-0240-9999" Desc="Inventario" SubCtaDe="1120-1000-1000-0240" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.01" NumCta="1120-1000-9995-0200-0000" Desc="Inventario" SubCtaDe="1120-1000-9995-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.01" NumCta="1120-1000-9995-0200-0020" Desc="Inventario" SubCtaDe="1120-1000-9995-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.01" NumCta="1120-1000-9995-0200-0021" Desc="Inventario" SubCtaDe="1120-1000-9995-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.01" NumCta="1120-1000-9995-0200-0016" Desc="Inventario de Materiales" SubCtaDe="1120-1000-9995-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0000" Desc="Inventario de materias primas" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0016" Desc="Inventario de materiales Unidades de resorte" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0015" Desc="Inventario de materiales Tela" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0017" Desc="Inventario de materiales Nucleos" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0019" Desc="Inventario de materiales Peeler capitonado" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0020" Desc="Inventario de materiales Marves" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0021" Desc="Inventario de materiales Componentes Metalicos" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0023" Desc="Inventario de materiales Marcos perimetrales" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0027" Desc="Inventario de materiales Blancos" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0024" Desc="Inventario de materiales Empaque" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0031" Desc="Inventario de materiales Etiquetas" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0032" Desc="Inventario de materiales Fletes" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0033" Desc="Inventario de materiales Planchas de poliuretano" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0034" Desc="Inventario de materiales Cinta" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0099" Desc="&quot;Inventario de materiales Diversos flange y patas, backing&quot;" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0307" Desc="Inventario de materiales Nomaco" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0420" Desc="Inventario de Materiales Hilo etiquetas y esquineros grapas garantias" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0200-0429" Desc="Inventario Materiales Obsoletos" SubCtaDe="1120-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0215-0000" Desc="Inventario de materiales Tela" SubCtaDe="1120-1000-1000-0215" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0230-0000" Desc="Inv - Finished Goods-General" SubCtaDe="1120-1000-1000-0230" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1120-1000-1000-0225-0000" Desc="Inventario de produccion en proceso" SubCtaDe="1120-1000-1000-0225" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1153-1000-1000-0200-0000" Desc="Inv - Raw Materials-General" SubCtaDe="1153-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.02" NumCta="1153-1000-1000-0200-0031" Desc="Inventario de materiales Etiquetas" SubCtaDe="1153-1000-1000-0200" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.04" NumCta="1120-1000-1000-0231-0000" Desc="Inventario de producto terminado" SubCtaDe="1120-1000-1000-0231" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.04" NumCta="1120-1000-1000-0231-2005" Desc="Inventario Mattress" SubCtaDe="1120-1000-1000-0231" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.04" NumCta="1120-1000-1000-0231-2006" Desc="Inventario Almohadas" SubCtaDe="1120-1000-1000-0231" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.04" NumCta="1120-1000-1000-0231-2007" Desc="Inventario Tempur" SubCtaDe="1120-1000-1000-0231" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="115.04" NumCta="1120-9999-1000-0230-0000" Desc="Inventario de Productos Terminados" SubCtaDe="1120-9999-1000-0230" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2750" Desc="Declaracion mensual y reclasificaciones de IVA acreditable" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2751" Desc="Iva compra de mercancias a corto plazo" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2753" Desc="IVA Acreditable Gastos por Servicos" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2758" Desc="IVA Acred. Diferido/Compras De Servicios" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2757" Desc="IVA Acred. Diferido Compras de inventario" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2759" Desc="IVA Acred. Diferido Cuenta puente" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2771" Desc="IVA por gastos en Renta y Outsourcing" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2770" Desc="IVA por gastos en Area Fronteriza" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2772" Desc="IVA por gastos en Fletes" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2773" Desc="IVA por gastos en Comisiones bancarias" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2774" Desc="IVA por gastos en American Express" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2775" Desc="IVA por gastos de viaje" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2777" Desc="IVA por gastos de Intercos Nacional" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2780" Desc="IVA por gastos de Compra a Proveedores nacionales en dolares" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2784" Desc="IVA por gastos de Outsourcing" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="4002-1000-1000-0350-2780" Desc="Prepaid Exp-VAT-Natl Suppliers" SubCtaDe="4002-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2756" Desc="IVA por gastos" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2776" Desc="IVA por gastos" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2781" Desc="IVA por gastos" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-2783" Desc="IVA por gastos" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-1000-1000-0350-3300" Desc="IVA por gastos" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.01" NumCta="1120-9999-1000-0350-2753" Desc="IVA por gastos" SubCtaDe="1120-9999-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.02" NumCta="1120-1000-1000-0350-2754" Desc="IVA Acreditable Gastos en Aduanas" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.02" NumCta="1120-1000-1000-0350-2755" Desc="Prepaid Exp - IVA Acred. Aduan" SubCtaDe="1120-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="118.02" NumCta="4002-1000-1000-0350-2760" Desc="Prepaid Exp - Cabello Canales" SubCtaDe="4002-1000-1000-0350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="120" NumCta="1120-1000-1000-0350-0000" Desc="Anticipos de gastos" SubCtaDe="1120-1000-1000-0350" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="120" NumCta="1120-1000-1000-0350-0099" Desc="Anticipos de gastos Agencia y predial" SubCtaDe="1120-1000-1000-0350" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="120" NumCta="1120-1000-1000-0350-0100" Desc="Anticipos de gastos para publicidad" SubCtaDe="1120-1000-1000-0350" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="120" NumCta="1120-1000-1000-0350-2760" Desc="Anticipo Agentes aduanales" SubCtaDe="1120-1000-1000-0350" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="120" NumCta="1120-1000-1000-0350-2762" Desc="Anticipo Agentes aduanales" SubCtaDe="1120-1000-1000-0350" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="120" NumCta="1120-1000-1000-0350-2763" Desc="Anticipo Agentes aduanales" SubCtaDe="1120-1000-1000-0350" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="120" NumCta="1120-1000-1000-0350-2765" Desc="Anticipo de gastos IE Soluciones" SubCtaDe="1120-1000-1000-0350" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="151" NumCta="1120-1000-1000-0410-0000" Desc="Terreno" SubCtaDe="1120-1000-1000-0410" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="152" NumCta="1120-1000-1000-0420-0000" Desc="Edificio" SubCtaDe="1120-1000-1000-0420" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="152" NumCta="1120-1000-1000-0420-0011" Desc="Edificio" SubCtaDe="1120-1000-1000-0420" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="152" NumCta="1120-1000-1000-0425-0011" Desc="Edificio" SubCtaDe="1120-1000-1000-0425" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="153" NumCta="1120-1000-1000-0430-0000" Desc="Maquinaria y Equipo" SubCtaDe="1120-1000-1000-0430" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="153" NumCta="1120-1000-1000-0430-0011" Desc="Maquinaria y Equipo" SubCtaDe="1120-1000-1000-0430" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="153" NumCta="1120-1000-1000-0430-0012" Desc="Maquinaria y Equipo" SubCtaDe="1120-1000-1000-0430" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="153" NumCta="1120-1000-1000-0431-0000" Desc="Maquinaria y Equipo" SubCtaDe="1120-1000-1000-0431" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="153" NumCta="1120-1000-1000-0435-0011" Desc="Maquinaria y Equipo" SubCtaDe="1120-1000-1000-0435" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="153" NumCta="1120-1000-1000-0435-0012" Desc="Disposiciones  Maquinaria y Equipo" SubCtaDe="1120-1000-1000-0435" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="154.01" NumCta="1120-1000-1000-0440-0000" Desc="Equipo de Transporte" SubCtaDe="1120-1000-1000-0440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="154.01" NumCta="1120-1000-1000-0440-0011" Desc="Adiciones de Equipo de transporte" SubCtaDe="1120-1000-1000-0440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="154.01" NumCta="1120-1000-1000-0440-0012" Desc="Disposiciones de Equipo de transporte" SubCtaDe="1120-1000-1000-0440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="154.01" NumCta="1120-1000-1000-0445-0011" Desc="Equipo de Transporte" SubCtaDe="1120-1000-1000-0445" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="154.01" NumCta="1120-1000-1000-0445-0012" Desc="Adiciones de Equipo de transporte" SubCtaDe="1120-1000-1000-0445" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="155.01" NumCta="1120-1000-1000-0450-0012" Desc="Mobiliario y equipo de oficina" SubCtaDe="1120-1000-1000-0450" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="155.01" NumCta="1120-1000-1000-0455-0012" Desc="Mobiliario y equipo de oficina" SubCtaDe="1120-1000-1000-0455" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="155.01" NumCta="1120-1000-1000-0450-0000" Desc="Mobiliario y equipo de oficina" SubCtaDe="1120-1000-1000-0450" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="155.01" NumCta="1120-1000-1000-0450-0011" Desc="Adiciones Mobiliario y Equipo de Oficina" SubCtaDe="1120-1000-1000-0450" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="155.01" NumCta="1120-1000-1000-0455-0011" Desc="Mobiliario y equipo de oficina" SubCtaDe="1120-1000-1000-0455" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="156.01" NumCta="1120-1000-1000-0460-0000" Desc="Equipo de computo y software" SubCtaDe="1120-1000-1000-0460" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="156.01" NumCta="1120-1000-1000-0460-0011" Desc="Adiciones de Equipo de computo y software" SubCtaDe="1120-1000-1000-0460" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="156.01" NumCta="1120-1000-1000-0460-0012" Desc="Equipo de Computo" SubCtaDe="1120-1000-1000-0460" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="156.01" NumCta="1120-1000-1000-0465-0011" Desc="Equipo de Computo" SubCtaDe="1120-1000-1000-0465" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="156.01" NumCta="1120-1000-1000-0465-0012" Desc="Equipo de Computo" SubCtaDe="1120-1000-1000-0465" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="170.01" NumCta="1120-1000-1000-0420-0012" Desc="Building - Disposals" SubCtaDe="1120-1000-1000-0420" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="171.01" NumCta="1120-1000-1000-0425-0012" Desc="A/D - Buildings- Disposals" SubCtaDe="1120-1000-1000-0425" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="171.02" NumCta="1120-1000-1000-0435-0000" Desc="Depreciacion acumulada de Maquinaria y equipo" SubCtaDe="1120-1000-1000-0435" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="171.03" NumCta="1120-1000-1000-0445-0000" Desc="Depreciacion Acumulada de Equipo de transporte" SubCtaDe="1120-1000-1000-0445" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="171.04" NumCta="1120-1000-1000-0455-0000" Desc="ACCUM. DEP. OFFICE FURN. AND EQUIP. ( ACT. DEL B-10 )" SubCtaDe="1120-1000-1000-0455" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="171.05" NumCta="1120-1000-1000-7308-0000" Desc="Depreciacion equipo computo" SubCtaDe="1120-1000-1000-7308" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="171.05" NumCta="1120-1000-1000-0465-0000" Desc="Depreciacion Acumulada de Equipo de computo y software" SubCtaDe="1120-1000-1000-0465" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="176.01" NumCta="1120-1000-1000-0571-0000" Desc="Intangibles" SubCtaDe="1120-1000-1000-0571" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="176.01" NumCta="1120-1000-1000-0572-0000" Desc="Intangibles" SubCtaDe="1120-1000-1000-0572" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="176.01" NumCta="1120-1000-1000-0573-0000" Desc="Intangibles" SubCtaDe="1120-1000-1000-0573" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="176.01" NumCta="1120-1000-1000-0574-0000" Desc="Intangibles" SubCtaDe="1120-1000-1000-0574" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="176.01" NumCta="1120-1000-1000-0577-0000" Desc="Intangibles" SubCtaDe="1120-1000-1000-0577" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="176.01" NumCta="1120-1000-1000-0578-0000" Desc="Intangibles" SubCtaDe="1120-1000-1000-0578" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="184.02" NumCta="1120-1000-1000-5596-0000" Desc="Depositos  en garantia arrendamiento" SubCtaDe="1120-1000-1000-5596" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="184.02" NumCta="1120-1000-1000-0540-0000" Desc="Depositos  en garantia arrendamiento" SubCtaDe="1120-1000-1000-0540" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="184.03" NumCta="1120-1000-1000-0540-2750" Desc="LuzY Fuerza Del Centro" SubCtaDe="1120-1000-1000-0540" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="184.03" NumCta="1120-1000-1000-0540-2751" Desc="Depositos en garantia" SubCtaDe="1120-1000-1000-0540" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="184.03" NumCta="1120-1000-1000-0540-2752" Desc="Depositos en garantia" SubCtaDe="1120-1000-1000-0540" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="185" NumCta="1120-1000-1000-0365-0000" Desc="Impuestos diferidos (corporativo US GAAP)" SubCtaDe="1120-1000-1000-0365" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="185" NumCta="1120-1000-1000-0366-0000" Desc="Def Charges - Noncurrent-Gen" SubCtaDe="1120-1000-1000-0366" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="185.01" NumCta="1120-1000-1000-0640-0125" Desc="Fed Income Tax - Federal" SubCtaDe="1120-1000-1000-0640" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="201.01" NumCta="1120-1000-1000-0600-0000" Desc="Proveedores nacionales" SubCtaDe="1120-1000-1000-0600" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.01" NumCta="1120-1000-1000-0600-0239" Desc="Proveedores nacionales Pesos" SubCtaDe="1120-1000-1000-0600" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.01" NumCta="1120-9999-1000-0600-0239" Desc="Proveedores Nacioneles" SubCtaDe="1120-9999-1000-0600" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.02" NumCta="1120-1000-1000-0600-0265" Desc="Proveedores en dolares" SubCtaDe="1120-1000-1000-0600" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1120-1000-9995-0800-1120" Desc="Partes Relacionadas" SubCtaDe="1120-1000-9995-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1120-1000-9995-0800-1151" Desc="Partes Relacionadas" SubCtaDe="1120-1000-9995-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1153-1000-1000-0240-9999" Desc="Invest In Subs-OBS" SubCtaDe="1153-1000-1000-0240" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1153-1000-1000-0800-0000" Desc="Intercompany Account-General" SubCtaDe="1153-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1153-1000-1000-0800-1152" Desc="Intercompany - Mexico #3" SubCtaDe="1153-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1153-1000-1000-0800-1151" Desc="Intercompany - Mexico #2" SubCtaDe="1153-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="4002-1000-1000-0240-9999" Desc="Invest In Subs-OBS" SubCtaDe="4002-1000-1000-0240" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="4002-1000-1000-0800-1120" Desc="Cuenta puente intercompanies solo corporativo" SubCtaDe="4002-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="4002-1000-1000-0800-1151" Desc="Cuenta puente intercompanies solo corporativo" SubCtaDe="4002-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="4002-1000-1000-0800-1152" Desc="Cuenta puente intercompanies solo corporativo" SubCtaDe="4002-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="4002-1000-1000-0800-1153" Desc="Intercompany - Mexico Innerspr" SubCtaDe="4002-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1120-1000-1000-0800-1151" Desc="Proveedores nacionales partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1120-1000-1000-0800-1152" Desc="Proveedores nacionales partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.03" NumCta="1120-1000-1000-0800-1153" Desc="Intercompany" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-9103-8820-0369" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-9103-8820" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-9995-0800-1152" Desc="Proveedores nacionales partes relacionadas" SubCtaDe="1120-1000-9995-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-0000" Desc="Cuenta puente intercompanies solo corporativo" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-1112" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-1189" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-1198" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-6001" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-6007" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-6012" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-6543" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-1136" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-6482" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="1120-1000-1000-0800-1134" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="1120-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="201.04" NumCta="4002-1000-1000-0800-1189" Desc="Proveedores extranjeros partes relacionadas" SubCtaDe="4002-1000-1000-0800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="202" NumCta="1120-1000-1000-0265-6535" Desc="Prestamos del extranjero" SubCtaDe="1120-1000-1000-0265" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="202" NumCta="1120-1000-1000-0610-0000" Desc="Cuentas por pagar varias" SubCtaDe="1120-1000-1000-0610" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="202" NumCta="1120-1000-1000-0610-0001" Desc="Cuentas por pagar varias" SubCtaDe="1120-1000-1000-0610" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="202" NumCta="4002-1000-1000-0610-0000" Desc="Accr Accounts Payable-General" SubCtaDe="4002-1000-1000-0610" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210" NumCta="1120-1000-9995-0680-0000" Desc="Sueldos y Salarios" SubCtaDe="1120-1000-9995-0680" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210" NumCta="1120-1000-1000-0620-2750" Desc="Deducciones de nomina Varios (seguro de Auto)" SubCtaDe="1120-1000-1000-0620" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210" NumCta="1120-1000-1000-0620-2753" Desc="Fondo de Ahorro" SubCtaDe="1120-1000-1000-0620" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210" NumCta="1120-1000-1000-0620-2754" Desc="Vales de Despensa" SubCtaDe="1120-1000-1000-0620" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210.02" NumCta="1120-1000-1000-0683-0000" Desc="Provision para vacaciones" SubCtaDe="1120-1000-1000-0683" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210.03" NumCta="1120-1000-1000-0682-0000" Desc="Provision para aguinaldo" SubCtaDe="1120-1000-1000-0682" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210.04" NumCta="1120-1000-1000-0620-2751" Desc="Caja de Ahorro" SubCtaDe="1120-1000-1000-0620" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210.05" NumCta="1120-1000-1000-0620-2757" Desc="Servicio de comedor" SubCtaDe="1120-1000-1000-0620" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210.07" NumCta="1120-1000-1000-0680-0000" Desc="Provision sobre nominas" SubCtaDe="1120-1000-1000-0680" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210.07" NumCta="1120-1000-1000-0686-0000" Desc="Indemnizacion por despido" SubCtaDe="1120-1000-1000-0686" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="210.07" NumCta="1120-1000-1000-0689-0000" Desc="Provision para bonos" SubCtaDe="1120-1000-1000-0689" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="211.02" NumCta="1120-1000-1000-0657-0000" Desc="Provision 2% Retiro SAR" SubCtaDe="1120-1000-1000-0657" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="212.01" NumCta="1120-1000-1000-0652-0000" Desc="Provision 3% Estatal Nomina Quincenal" SubCtaDe="1120-1000-1000-0652" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="212.01" NumCta="1120-1000-1000-0654-0000" Desc="Provision Infonavit Nomina Quincenal" SubCtaDe="1120-1000-1000-0654" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="213.01" NumCta="1120-1000-1000-0641-0000" Desc="IVA" SubCtaDe="1120-1000-1000-0641" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="213.01" NumCta="1120-1000-1000-0660-0000" Desc="IVA trasladado" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="213.01" NumCta="1120-1000-1000-0660-2750" Desc="IVA trasladado" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="213.01" NumCta="1120-1000-1000-0660-2751" Desc="IVA trasladado" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="213.01" NumCta="1120-1000-1000-0660-2752" Desc="IVA trasladado" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="213.03" NumCta="1120-1000-1000-0640-2750" Desc="ISR por pagar" SubCtaDe="1120-1000-1000-0640" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="213.07" NumCta="1120-1000-1000-0669-0000" Desc="Otros impuestos por pagar" SubCtaDe="1120-1000-1000-0669" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="216.01" NumCta="1120-1000-1000-0651-0000" Desc="ISPT" SubCtaDe="1120-1000-1000-0651" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="216.10" NumCta="1120-1000-1000-0660-2754" Desc="IVA trasladado" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="216.10" NumCta="1120-1000-1000-0660-2755" Desc="IVA retenido" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="216.10" NumCta="1120-1000-1000-0660-2756" Desc="IVA retenido" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="216.10" NumCta="1120-1000-1000-0660-2757" Desc="IVA retenido" SubCtaDe="1120-1000-1000-0660" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="216.11" NumCta="1120-1000-1000-0650-0000" Desc="IMSS" SubCtaDe="1120-1000-1000-0650" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="216.12" NumCta="1120-1000-1000-0649-0000" Desc="Retencion Regalias" SubCtaDe="1120-1000-1000-0649" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218" NumCta="1120-1000-1000-0690-0000" Desc="Provision Honorarios  en general" SubCtaDe="1120-1000-1000-0690" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218" NumCta="1120-1000-1000-0690-2750" Desc="Honorarios Legal" SubCtaDe="1120-1000-1000-0690" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218" NumCta="1120-1000-1000-0699-0001" Desc="Provision Honorarios  en general" SubCtaDe="1120-1000-1000-0699" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218" NumCta="1120-1000-1000-0699-0002" Desc="Provision Honorarios  en general" SubCtaDe="1120-1000-1000-0699" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218" NumCta="1120-1000-1000-0699-0003" Desc="Provision Honorarios  en general" SubCtaDe="1120-1000-1000-0699" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0700-0000" Desc="Provision de Publicidad" SubCtaDe="1120-1000-1000-0700" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0706-0000" Desc="Accr PMs - Prior-General" SubCtaDe="1120-1000-1000-0706" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0710-0000" Desc="Accr Vol Reb-2002 Tback-Gen" SubCtaDe="1120-1000-1000-0710" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0715-0000" Desc="Accr Std Adv-Prior-General" SubCtaDe="1120-1000-1000-0715" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0735-0000" Desc="Accr Promo Other - Current-Gen" SubCtaDe="1120-1000-1000-0735" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0745-0000" Desc="Accrued Adv -Current-General" SubCtaDe="1120-1000-1000-0745" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0750-0000" Desc="Accr Vol Reb - Current-General" SubCtaDe="1120-1000-1000-0750" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0770-0000" Desc="Accr Overbillings - Curr-Gen" SubCtaDe="1120-1000-1000-0770" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0771-0000" Desc="Descuentos" SubCtaDe="1120-1000-1000-0771" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0699-0000" Desc="Accr Liabilities - Misc-Gen" SubCtaDe="1120-1000-1000-0699" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="218.01" NumCta="1120-1000-1000-0705-0000" Desc="Accr Promo Oth-Prior-General" SubCtaDe="1120-1000-1000-0705" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="252.17" NumCta="1120-1000-1000-0671-0000" Desc="Provision garantias y accomodation" SubCtaDe="1120-1000-1000-0671" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="255" NumCta="1120-1000-1000-0975-0000" Desc="Provision Indemnizaciones" SubCtaDe="1120-1000-1000-0975" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="259.01" NumCta="1120-1000-1000-0640-0000" Desc="ISR por Pagar (US GAAP)" SubCtaDe="1120-1000-1000-0640" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="300" NumCta="1120-1000-1000-0955-0000" Desc="US GAAP" SubCtaDe="1120-1000-1000-0955" Nivel="0" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="301" NumCta="1120-1000-1000-0980-0000" Desc="Capital social" SubCtaDe="1120-1000-1000-0980" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="301.03" NumCta="1120-1000-1000-0985-0000" Desc="Aportaciones al capital" SubCtaDe="1120-1000-1000-0985" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="304" NumCta="1120-1000-1000-0999-0000" Desc="Resultado de ejercicios anteriores" SubCtaDe="1120-1000-1000-0999" Nivel="1" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="304.01" NumCta="1153-1000-1000-0999-0000" Desc="Retained Earnings - PY -Gen" SubCtaDe="1153-1000-1000-0999" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="304.01" NumCta="4002-1000-1000-0999-0000" Desc="Retained Earnings - PY -Gen" SubCtaDe="4002-1000-1000-0999" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="304.03" NumCta="1120-1000-1000-0996-0000" Desc="Ajustes en moneda extranjera (Corporativo)" SubCtaDe="1120-1000-1000-0996" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1000-2500-1001-0001" Desc="Sales - Sealy" SubCtaDe="1120-1000-2500-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1020-1000-1001-0001" Desc="Ventas" SubCtaDe="1120-1020-1000-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1020-1000-1001-0002" Desc="Ventas" SubCtaDe="1120-1020-1000-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1020-1000-1001-0005" Desc="Ventas" SubCtaDe="1120-1020-1000-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1000-1000-1001-0003" Desc="Ventas" SubCtaDe="1120-1000-1000-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1000-1000-1001-0000" Desc="Ventas" SubCtaDe="1120-1000-1000-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1000-1000-1001-0001" Desc="Ventas" SubCtaDe="1120-1000-1000-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.01" NumCta="1120-1020-1000-1001-0000" Desc="Ventas" SubCtaDe="1120-1020-1000-1001" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.38" NumCta="1120-1000-1000-8430-0000" Desc="Otros Gastos en general" SubCtaDe="1120-1000-1000-8430" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.38" NumCta="1120-1000-1000-8430-0001" Desc="Otros ingresos propios" SubCtaDe="1120-1000-1000-8430" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="401.38" NumCta="1120-1000-1000-8430-0003" Desc="Otros ingresos propios" SubCtaDe="1120-1000-1000-8430" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="402.01" NumCta="1120-1000-1000-1090-0000" Desc="Devoluciones y Descuentos" SubCtaDe="1120-1000-1000-1090" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="402.01" NumCta="1120-1000-1000-1090-0001" Desc="Devoluciones y Descuentos" SubCtaDe="1120-1000-1000-1090" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="501.01" NumCta="1120-1000-2500-2110-0000" Desc="Std Matl Cost-General" SubCtaDe="1120-1000-2500-2110" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.01" NumCta="1120-1000-9995-2110-0000" Desc="Costo de Ventas" SubCtaDe="1120-1000-9995-2110" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.01" NumCta="1153-1000-1000-2110-0000" Desc="Std Matl Cost-General" SubCtaDe="1153-1000-1000-2110" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.01" NumCta="1120-1000-1000-2110-0000" Desc="Costo de Ventas" SubCtaDe="1120-1000-1000-2110" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.01" NumCta="1120-1000-1000-2110-0032" Desc="Costo de Ventas" SubCtaDe="1120-1000-1000-2110" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.01" NumCta="1120-1000-1000-2110-0300" Desc="Costo de Ventas" SubCtaDe="1120-1000-1000-2110" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.01" NumCta="1120-1000-1000-2860-0000" Desc="Lab Prod Var - Returns Gen" SubCtaDe="1120-1000-1000-2860" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.06" NumCta="1120-1000-9995-2850-0712" Desc="Mantenimiento" SubCtaDe="1120-1000-9995-2850" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.06" NumCta="1120-1000-9995-3370-0000" Desc="Mantenimiento" SubCtaDe="1120-1000-9995-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.06" NumCta="1120-1000-9995-2890-0712" Desc="Costo de Ventas" SubCtaDe="1120-1000-9995-2890" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.06" NumCta="1120-1000-1000-2850-0712" Desc="Mantenimiento" SubCtaDe="1120-1000-1000-2850" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0000" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0015" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0016" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0017" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0019" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0020" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0021" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0023" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0024" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0027" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0033" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0099" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0307" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2120-0420" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2125-0000" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2125" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2125-0001" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2125" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2150-0000" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2150" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2180-0000" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2180" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2190-0000" Desc="Otros Costos" SubCtaDe="1120-1000-1000-2190" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="501.08" NumCta="1120-1000-1000-2192-0000" Desc="Revaluacion" SubCtaDe="1120-1000-1000-2192" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="504.07" NumCta="1120-1000-1000-3800-0000" Desc="Deprec - Blding-General" SubCtaDe="1120-1000-1000-3800" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="504.08" NumCta="1120-1000-1000-3810-0000" Desc="Deprec - Mach &amp; Equip-General" SubCtaDe="1120-1000-1000-3810" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="504.09" NumCta="1120-1000-1000-5355-0000" Desc="Auto Depreciation-General" SubCtaDe="1120-1000-1000-5355" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="504.10" NumCta="1120-1000-1000-7306-0000" Desc="Depreciacion office equipo" SubCtaDe="1120-1000-1000-7306" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="504.10" NumCta="1120-1000-1000-3815-0000" Desc="Estas  cuentas no se utilizan" SubCtaDe="1120-1000-1000-3815" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="504.11" NumCta="1120-1000-1000-3820-0000" Desc="Estas  cuentas no se utilizan" SubCtaDe="1120-1000-1000-3820" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.01" NumCta="1153-1000-1000-0680-0000" Desc="Accr Payroll-General" SubCtaDe="1153-1000-1000-0680" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.33" NumCta="1120-1000-1000-8500-6001" Desc="Intercompany Expense - TPMI" SubCtaDe="1120-1000-1000-8500" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.52" NumCta="1120-1000-1000-3601-0000" Desc="Electricity-General" SubCtaDe="1120-1000-1000-3601" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.56" NumCta="1120-1000-9995-3370-0071" Desc="Mantenimiento y conservacion" SubCtaDe="1120-1000-9995-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.56" NumCta="1120-1000-1000-3370-0000" Desc="Mantenimiento y conservacion" SubCtaDe="1120-1000-1000-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.56" NumCta="1153-1000-1000-3370-0000" Desc="Mantenimiento y conservacion" SubCtaDe="1153-1000-1000-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.61" NumCta="1120-1000-2500-5570-0000" Desc="Sales Promo Act-General" SubCtaDe="1120-1000-2500-5570" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.61" NumCta="1120-1000-5000-6300-0000" Desc="National Advertising-General" SubCtaDe="1120-1000-5000-6300" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.61" NumCta="1120-1000-1000-5570-0000" Desc="Sales Promo Act-General" SubCtaDe="1120-1000-1000-5570" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.61" NumCta="1120-1000-1000-5570-0001" Desc="Propaganda y Publicidad" SubCtaDe="1120-1000-1000-5570" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.61" NumCta="1120-1000-1000-6500-0001" Desc="Propaganda y Publicidad" SubCtaDe="1120-1000-1000-6500" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.67" NumCta="1120-1000-1000-2300-0000" Desc="IC Royalty Exp - Sealy Intl" SubCtaDe="1120-1000-1000-2300" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.72" NumCta="1120-1000-2500-4600-0000" Desc="O/B Freight-General" SubCtaDe="1120-1000-2500-4600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-5000-4720-0000" Desc="Gastos en general" SubCtaDe="1120-1000-5000-4720" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-9999-1000-7309-0000" Desc="Misc Office Exp-General" SubCtaDe="1120-9999-1000-7309" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-0135-0000" Desc="Gastos en general" SubCtaDe="1120-1000-1000-0135" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-0181-0000" Desc="Gastos en general" SubCtaDe="1120-1000-1000-0181" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-2823-0000" Desc="Gastos en general" SubCtaDe="1120-1000-1000-2823" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-3487-0000" Desc="Gastos en general" SubCtaDe="1120-1000-1000-3487" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-4720-0000" Desc="Gastos en general" SubCtaDe="1120-1000-1000-4720" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-5610-0001" Desc="Provision Retail - Sealy" SubCtaDe="1120-1000-1000-5610" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-7305-0000" Desc="Outside Service-General" SubCtaDe="1120-1000-1000-7305" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="601.84" NumCta="1120-1000-1000-7309-0000" Desc="Misc Office Exp-General" SubCtaDe="1120-1000-1000-7309" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.01" NumCta="1120-1000-5000-5101-0000" Desc="Sueldos y Salarios" SubCtaDe="1120-1000-5000-5101" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.01" NumCta="1120-1000-5000-5101-2752" Desc="Sueldos y Salarios" SubCtaDe="1120-1000-5000-5101" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.01" NumCta="1120-1000-5000-5250-0000" Desc="Bonos" SubCtaDe="1120-1000-5000-5250" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.07" NumCta="1120-1000-5000-5101-2751" Desc="Prima vacacional" SubCtaDe="1120-1000-5000-5101" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.07" NumCta="1120-1000-5000-5101-2754" Desc="Prima vacacional" SubCtaDe="1120-1000-5000-5101" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.12" NumCta="1120-1000-5000-5101-2750" Desc="Aguinaldo" SubCtaDe="1120-1000-5000-5101" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.12" NumCta="1120-1000-5000-5101-2753" Desc="Aguinaldo" SubCtaDe="1120-1000-5000-5101" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.13" NumCta="1120-1000-5000-5260-0000" Desc="Indemnizacion por despido" SubCtaDe="1120-1000-5000-5260" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.23" NumCta="1120-1000-5000-5296-0000" Desc="Vales de Despensa" SubCtaDe="1120-1000-5000-5296" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.26" NumCta="1120-1000-5000-5281-0000" Desc="IMSS" SubCtaDe="1120-1000-5000-5281" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.26" NumCta="1120-1000-5000-5294-0000" Desc="Pension" SubCtaDe="1120-1000-5000-5294" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.28" NumCta="1120-1000-5000-5282-0000" Desc="SAR" SubCtaDe="1120-1000-5000-5282" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.28" NumCta="1120-1000-5000-5295-0000" Desc="IMSS 2% SAR" SubCtaDe="1120-1000-5000-5295" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.34" NumCta="1120-1000-7000-7305-0000" Desc="Servicios externos y profesionales" SubCtaDe="1120-1000-7000-7305" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.49" NumCta="1120-1000-5000-5310-0000" Desc="Gastos de Viaje" SubCtaDe="1120-1000-5000-5310" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.49" NumCta="1120-1000-5000-5322-0000" Desc="Gastos de Viaje" SubCtaDe="1120-1000-5000-5322" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.49" NumCta="1120-1000-1000-5322-0000" Desc="T&amp;E Non Ded - Rep-General" SubCtaDe="1120-1000-1000-5322" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.49" NumCta="1120-1000-7000-7702-0000" Desc="T&amp;E Non Ded(PltAdm)-General" SubCtaDe="1120-1000-7000-7702" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.49" NumCta="1120-1000-1000-7702-0000" Desc="T&amp;E Non Ded(PltAdm)-General" SubCtaDe="1120-1000-1000-7702" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.56" NumCta="1120-1000-5000-5350-0000" Desc="Gastos auto" SubCtaDe="1120-1000-5000-5350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.57" NumCta="1120-1000-5000-5291-0000" Desc="Seguro GMM" SubCtaDe="1120-1000-5000-5291" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.57" NumCta="1120-1000-5000-5293-0000" Desc="Seguro vida" SubCtaDe="1120-1000-5000-5293" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.61" NumCta="1120-1000-1000-6300-0000" Desc="Propaganda y Publicidad" SubCtaDe="1120-1000-1000-6300" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.61" NumCta="1120-1000-1000-6300-0001" Desc="Propaganda y Publicidad" SubCtaDe="1120-1000-1000-6300" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.61" NumCta="1120-1000-1000-6300-0002" Desc="Propaganda y Publicidad" SubCtaDe="1120-1000-1000-6300" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.61" NumCta="1120-1000-1000-6500-0000" Desc="Publicidad Co Op" SubCtaDe="1120-1000-1000-6500" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.67" NumCta="1120-1000-1000-5900-0000" Desc="Regalias sujetas al 10%" SubCtaDe="1120-1000-1000-5900" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.72" NumCta="1120-1000-4300-4600-0000" Desc="Fletes y acarreos" SubCtaDe="1120-1000-4300-4600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.72" NumCta="1120-1000-4300-4600-2750" Desc="Carga General" SubCtaDe="1120-1000-4300-4600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.83" NumCta="1120-1000-2500-5440-2750" Desc="Misc Selling Exp - General" SubCtaDe="1120-1000-2500-5440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.83" NumCta="1120-1000-5000-5440-2750" Desc="Gastos de venta No deducibles" SubCtaDe="1120-1000-5000-5440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-2500-5440-0000" Desc="Misc Selling Exp-General" SubCtaDe="1120-1000-2500-5440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5103-0000" Desc="Gastos de Venta y Marketing" SubCtaDe="1120-1000-5000-5103" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5410-0000" Desc="Gastos de Venta promocion y publicidad" SubCtaDe="1120-1000-5000-5410" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5440-0000" Desc="Otros gastos de venta" SubCtaDe="1120-1000-5000-5440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5570-0000" Desc="Gastos de Venta promocion y publicidad" SubCtaDe="1120-1000-5000-5570" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5610-0000" Desc="Comisiones para clientes push  money" SubCtaDe="1120-1000-5000-5610" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5610-0001" Desc="Comisiones para clientes push  money" SubCtaDe="1120-1000-5000-5610" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5570-0001" Desc="Gastos de Venta promocion y publicidad" SubCtaDe="1120-1000-5000-5570" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-5590-0000" Desc="Gastos de Venta promocion y publicidad" SubCtaDe="1120-1000-5000-5590" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-5000-7305-0000" Desc="Outside Service-General" SubCtaDe="1120-1000-5000-7305" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-1000-4990-0000" Desc="Gastos miscelaneos general" SubCtaDe="1120-1000-1000-4990" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-7000-8450-0000" Desc="Gastos miscelaneos general" SubCtaDe="1120-1000-7000-8450" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-1000-5410-0000" Desc="Gastos miscelaneos general" SubCtaDe="1120-1000-1000-5410" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-1000-5440-0000" Desc="Gastos miscelaneos general" SubCtaDe="1120-1000-1000-5440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-1000-5630-0000" Desc="&quot;Devoluciones , descuentos o bonificaciones sobre ventas&quot;" SubCtaDe="1120-1000-1000-5630" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="602.84" NumCta="1120-1000-1000-5635-0000" Desc="&quot;Devoluciones , descuentos o bonificaciones sobre ventas&quot;" SubCtaDe="1120-1000-1000-5635" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.01" NumCta="1120-1000-7000-7100-0000" Desc="Sueldos y Salarios" SubCtaDe="1120-1000-7000-7100" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.01" NumCta="1120-1000-7000-7100-2752" Desc="Sueldos y Salarios" SubCtaDe="1120-1000-7000-7100" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.01" NumCta="1120-1000-7000-7250-0000" Desc="Bono por incentivos" SubCtaDe="1120-1000-7000-7250" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.07" NumCta="1120-1000-7000-7100-2751" Desc="Prima vacacional" SubCtaDe="1120-1000-7000-7100" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.07" NumCta="1120-1000-7000-7100-2754" Desc="Prima vacacional" SubCtaDe="1120-1000-7000-7100" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.12" NumCta="1120-1000-7000-7100-2750" Desc="Aguinaldo" SubCtaDe="1120-1000-7000-7100" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.12" NumCta="1120-1000-7000-7100-2753" Desc="Aguinaldo" SubCtaDe="1120-1000-7000-7100" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.13" NumCta="1120-1000-7000-7260-0000" Desc="Sueldos de Administracion Indemnizaciones" SubCtaDe="1120-1000-7000-7260" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.23" NumCta="1120-1000-7000-7296-0000" Desc="Vales de despensa y fondo de ahorro ( Administracion )" SubCtaDe="1120-1000-7000-7296" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.26" NumCta="1120-1000-7000-7281-0000" Desc="IMSS" SubCtaDe="1120-1000-7000-7281" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.27" NumCta="1120-1000-7000-7294-0000" Desc="Infonavit ( Administracion )" SubCtaDe="1120-1000-7000-7294" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.28" NumCta="1120-1000-7000-7295-0000" Desc="2% Retiro SAR ( Administracion )" SubCtaDe="1120-1000-7000-7295" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.29" NumCta="1120-1000-7000-7282-0000" Desc="3% Estat Nom Quinc" SubCtaDe="1120-1000-7000-7282" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.32" NumCta="1120-1000-1000-9995-0000" Desc="Otros gastos de administracion" SubCtaDe="1120-1000-1000-9995" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.49" NumCta="1120-1000-7000-7700-0000" Desc="Gastos de viaje Administracion" SubCtaDe="1120-1000-7000-7700" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.50" NumCta="1120-1000-7000-7301-0000" Desc="Telefonos y comunicaciones" SubCtaDe="1120-1000-7000-7301" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.55" NumCta="1120-1000-7000-7303-0000" Desc="Articulos de oficina ( Administracion )" SubCtaDe="1120-1000-7000-7303" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.56" NumCta="1120-1000-7000-7350-0000" Desc="Gastos de automovil" SubCtaDe="1120-1000-7000-7350" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.57" NumCta="1120-1000-4300-4990-0000" Desc="Gastos miscelaneos general" SubCtaDe="1120-1000-4300-4990" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.57" NumCta="1120-1000-7000-7291-0000" Desc="Seguro de gastos medicos ( Administracion )" SubCtaDe="1120-1000-7000-7291" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.57" NumCta="1120-1000-7000-7293-0000" Desc="Seguro de vida ( Admnistracion )" SubCtaDe="1120-1000-7000-7293" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.59" NumCta="1120-1000-1000-9664-0000" Desc="Recargos" SubCtaDe="1120-1000-1000-9664" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.81" NumCta="1120-1000-7000-7309-2750" Desc="Gastos diversos de Administracion" SubCtaDe="1120-1000-7000-7309" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-1000-8994-0125" Desc="Provision de ISR" SubCtaDe="1120-1000-1000-8994" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-1000-999999-0000" Desc="Depuracion de cuentas" SubCtaDe="1120-1000-1000-9999" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-5000-5440-4004" Desc="Gastos miscelaneos general" SubCtaDe="1120-1000-5000-5440" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-7000-7000-0000" Desc="Cuentas incobrables" SubCtaDe="1120-1000-7000-7000" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-7000-7302-0000" Desc="Servicio postal UPS" SubCtaDe="1120-1000-7000-7302" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-7000-7309-0000" Desc="Gastos diversos de Administracion" SubCtaDe="1120-1000-7000-7309" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-7000-7600-0000" Desc="Gastos diversos de Administracion" SubCtaDe="1120-1000-7000-7600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-7000-7600-0001" Desc="Gastos diversos de Administracion" SubCtaDe="1120-1000-7000-7600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-7000-7600-5077" Desc="Gastos diversos de Administracion" SubCtaDe="1120-1000-7000-7600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-7000-7600-5079" Desc="Gastos diversos de Administracion" SubCtaDe="1120-1000-7000-7600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="4002-1000-1000-999999-0000" Desc="Computer Clearing-General" SubCtaDe="4002-1000-1000-9999" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-1000-8450-0000" Desc="Gastos Varios" SubCtaDe="1120-1000-1000-8450" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-1000-8600-0000" Desc="Servicios Administrativos" SubCtaDe="1120-1000-1000-8600" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="603.82" NumCta="1120-1000-1000-8994-0000" Desc="Recargos" SubCtaDe="1120-1000-1000-8994" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.01" NumCta="1120-1000-3500-3500-0000" Desc="Salarios" SubCtaDe="1120-1000-3500-3500" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.01" NumCta="1120-1000-4300-4100-0000" Desc="Estas  cuentas no se utilizan" SubCtaDe="1120-1000-4300-4100" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.06" NumCta="1120-1000-9995-3240-0000" Desc="Vacaciones" SubCtaDe="1120-1000-9995-3240" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.07" NumCta="1153-1000-1000-3240-0000" Desc="Hol/Vac Pay (Mfg Var)-General" SubCtaDe="1153-1000-1000-3240" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.12" NumCta="1120-1000-9995-3531-0000" Desc="Bonos" SubCtaDe="1120-1000-9995-3531" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.12" NumCta="1153-1000-1000-3531-0000" Desc="Factory Bonus Pay Fixed-Gen" SubCtaDe="1153-1000-1000-3531" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.13" NumCta="1120-1000-9995-3560-0000" Desc="Indemnizacion por despido" SubCtaDe="1120-1000-9995-3560" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.13" NumCta="1153-1000-1000-3560-0000" Desc="Severance Pay(MfgFix)-General" SubCtaDe="1153-1000-1000-3560" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.13" NumCta="1120-1000-3500-3560-0000" Desc="Indemnizaciones" SubCtaDe="1120-1000-3500-3560" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.21" NumCta="1153-1000-1000-3295-0000" Desc="Profit Sharing (Mfg Var)-Gen" SubCtaDe="1153-1000-1000-3295" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.26" NumCta="1120-1000-9995-3281-0000" Desc="Cuotas al IMSS" SubCtaDe="1120-1000-9995-3281" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.26" NumCta="1120-1000-9995-3295-0000" Desc="IMSS 2% SAR" SubCtaDe="1120-1000-9995-3295" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.26" NumCta="1120-1000-9995-3581-0000" Desc="Cuotas al IMSS" SubCtaDe="1120-1000-9995-3581" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.26" NumCta="1153-1000-1000-3281-0000" Desc="FICA Tax (Mfg Var) - General" SubCtaDe="1153-1000-1000-3281" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.26" NumCta="1153-1000-1000-3581-0000" Desc="FICA Tax (Mfg Fix)-Gen" SubCtaDe="1153-1000-1000-3581" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.27" NumCta="1153-1000-1000-3294-0000" Desc="Pension (Mfg Var) - General" SubCtaDe="1153-1000-1000-3294" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.28" NumCta="1120-1000-9995-3294-0000" Desc="Pension" SubCtaDe="1120-1000-9995-3294" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.29" NumCta="1120-1000-3500-3282-0000" Desc="3 % sobre nomina" SubCtaDe="1120-1000-3500-3282" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.29" NumCta="1120-1000-9995-3282-0000" Desc="Impuesto sobre nominas" SubCtaDe="1120-1000-9995-3282" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.29" NumCta="1153-1000-1000-3282-0000" Desc="FUTA/SUTA (Mfg Var) - General" SubCtaDe="1153-1000-1000-3282" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.48" NumCta="1120-1000-3500-3602-0000" Desc="Combustribles y lubricantes" SubCtaDe="1120-1000-3500-3602" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.49" NumCta="1120-1000-3500-3420-0000" Desc="Viaticos y gastos de viaje" SubCtaDe="1120-1000-3500-3420" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.49" NumCta="1120-1000-5000-5312-0000" Desc="Viaticos y gastos de viaje" SubCtaDe="1120-1000-5000-5312" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.49" NumCta="1120-1000-5000-5320-0000" Desc="Viaticos y gastos de viaje" SubCtaDe="1120-1000-5000-5320" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.50" NumCta="1120-1000-3500-3483-0000" Desc="Telefonos y comunicaciones" SubCtaDe="1120-1000-3500-3483" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.51" NumCta="1120-1000-3500-3603-0000" Desc="Agua" SubCtaDe="1120-1000-3500-3603" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.52" NumCta="1120-1000-3500-3601-0000" Desc="Energia electrica" SubCtaDe="1120-1000-3500-3601" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.52" NumCta="1120-1000-9995-3601-0000" Desc="Energia electrica" SubCtaDe="1120-1000-9995-3601" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.52" NumCta="1153-1000-1000-3601-0000" Desc="Electricity-General" SubCtaDe="1153-1000-1000-3601" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.53" NumCta="1120-1000-3500-3488-0000" Desc="Servicios Administrativos" SubCtaDe="1120-1000-3500-3488" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.53" NumCta="1120-1000-3500-4738-2402" Desc="Vigilancia y Seguridad" SubCtaDe="1120-1000-3500-4738" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.53" NumCta="1120-1000-1000-4738-2402" Desc="Vigilancia y Seguridad" SubCtaDe="1120-1000-1000-4738" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.55" NumCta="1120-1000-3500-3485-0000" Desc="Papeleria y Articulos de Oficina" SubCtaDe="1120-1000-3500-3485" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.55" NumCta="1120-1000-3500-3486-0000" Desc="Suministros de Oficina" SubCtaDe="1120-1000-3500-3486" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.56" NumCta="1120-1000-3100-3360-0000" Desc="Mantenimientoy Conservacion de edificios" SubCtaDe="1120-1000-3100-3360" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.56" NumCta="1120-1000-3100-3370-0000" Desc="Estas  cuentas no se utilizan" SubCtaDe="1120-1000-3100-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.56" NumCta="1153-1000-1000-3370-0071" Desc="Manf Sup - Non-Machinery" SubCtaDe="1153-1000-1000-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.56" NumCta="1120-1000-1000-3360-0000" Desc="Mantenimientoy Conservacion de edificios" SubCtaDe="1120-1000-1000-3360" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.57" NumCta="1120-1000-3100-3291-0000" Desc="Seguro GMM" SubCtaDe="1120-1000-3100-3291" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.57" NumCta="1120-1000-3100-3293-0000" Desc="Seguros y Fianzas" SubCtaDe="1120-1000-3100-3293" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.57" NumCta="1120-1000-3500-3591-0000" Desc="Seguro GMM" SubCtaDe="1120-1000-3500-3591" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.57" NumCta="1120-1000-3500-3593-0000" Desc="Seguro vida" SubCtaDe="1120-1000-3500-3593" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.57" NumCta="1120-1000-3500-3910-0000" Desc="Seguros y Fianzas" SubCtaDe="1120-1000-3500-3910" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.57" NumCta="1153-1000-1000-3291-0000" Desc="Seguro GMM" SubCtaDe="1153-1000-1000-3291" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.76" NumCta="1120-1000-3500-3920-0000" Desc="Predial" SubCtaDe="1120-1000-3500-3920" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.81" NumCta="1120-1000-3500-3490-2750" Desc="No deducibles" SubCtaDe="1120-1000-3500-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.81" NumCta="1120-1000-9995-3490-2750" Desc="No deducibles" SubCtaDe="1120-1000-9995-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.81" NumCta="1153-1000-1000-3490-2750" Desc="Misc Mfg Exp - General Non-Ded" SubCtaDe="1153-1000-1000-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.81" NumCta="1120-1000-1000-3490-2750" Desc="No deducibles" SubCtaDe="1120-1000-1000-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-3100-3370-0071" Desc="Mantenimiento de Maquinaria y Equipo" SubCtaDe="1120-1000-3100-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-3100-3393-0000" Desc="Devoluciones" SubCtaDe="1120-1000-3100-3393" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-3500-3490-0000" Desc="Otros Gastos fabricacion" SubCtaDe="1120-1000-3500-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-3500-3950-0000" Desc="Otros gastos de fabricacion" SubCtaDe="1120-1000-3500-3950" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-9995-3490-0000" Desc="Otros Gastos administrativos" SubCtaDe="1120-1000-9995-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1153-1000-1000-3490-0000" Desc="Mfg Exp- Miscellaneous" SubCtaDe="1153-1000-1000-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-1000-3370-0071" Desc="Mantenimiento de Maquinaria y Equipo" SubCtaDe="1120-1000-1000-3370" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-1000-3390-0000" Desc="Otros Gastos fabricacion" SubCtaDe="1120-1000-1000-3390" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-1000-3490-0000" Desc="Otros Gastos fabricacion" SubCtaDe="1120-1000-1000-3490" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-1000-3393-0000" Desc="Warr Returns-General" SubCtaDe="1120-1000-1000-3393" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1120-1000-1000-3393-0100" Desc="Accom Return Asset Adj" SubCtaDe="1120-1000-1000-3393" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="604.82" NumCta="1153-1000-1000-8450-0000" Desc="Otros Gastos fabricacion" SubCtaDe="1153-1000-1000-8450" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="605.01" NumCta="1120-1000-3100-3394-0000" Desc="Gastos Varios" SubCtaDe="1120-1000-3100-3394" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="605.02" NumCta="1153-1000-1000-2850-0712" Desc="Other-Reg-Maintenance" SubCtaDe="1153-1000-1000-2850" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="605.04" NumCta="1153-1000-1000-2890-0712" Desc="Other-OT-Maintenance" SubCtaDe="1153-1000-1000-2890" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="614.01" NumCta="1120-1000-1000-3910-0000" Desc="Amortizacion Poliza de Seguro" SubCtaDe="1120-1000-1000-3910" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="614.07" NumCta="1120-1000-1000-8120-0000" Desc="Amort - Patents &amp; Trade-Gen" SubCtaDe="1120-1000-1000-8120" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="614.07" NumCta="1120-1000-1000-8130-0000" Desc="Amort Exp-Customer Relationshi" SubCtaDe="1120-1000-1000-8130" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="614.07" NumCta="1120-1000-1000-8150-0000" Desc="Amort Exp-Databases" SubCtaDe="1120-1000-1000-8150" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.01" NumCta="1120-1000-7000-8000-0000" Desc="Perdida Cambiaria" SubCtaDe="1120-1000-7000-8000" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.01" NumCta="1120-1000-9103-8000-0000" Desc="Perdida Cambiaria" SubCtaDe="1120-1000-9103-8000" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.01" NumCta="1120-9999-1000-8000-0000" Desc="Ganancia / Perdida en cambios" SubCtaDe="1120-9999-1000-8000" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.01" NumCta="1120-1000-1000-8000-0000" Desc="Ganancia / Perdida en cambios" SubCtaDe="1120-1000-1000-8000" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.01" NumCta="4002-1000-1000-8000-0000" Desc="Ganancia / Perdida en cambios" SubCtaDe="4002-1000-1000-8000" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.04" NumCta="1120-1000-9103-8810-0000" Desc="Intereses Bancarios" SubCtaDe="1120-1000-9103-8810" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.10" NumCta="1120-1000-7000-7305-3050" Desc="Comisiones Bancarias" SubCtaDe="1120-1000-7000-7305" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.10" NumCta="1120-1000-1000-7305-3050" Desc="Comisiones Bancarias" SubCtaDe="1120-1000-1000-7305" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="701.10" NumCta="1120-1000-1000-8810-0000" Desc="Interest Expense - Cash-Gen" SubCtaDe="1120-1000-1000-8810" Nivel="2" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="702.04" NumCta="1120-1000-9103-8800-0000" Desc="Ingresos por Intereses" SubCtaDe="1120-1000-9103-8800" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="703" NumCta="1120-1000-1000-8820-6535" Desc="I/C Int Inc/Exp Tempur Holding" SubCtaDe="1120-1000-1000-8820" Nivel="1" Natur="D"/>
+	<catalogocuentas:Ctas CodAgrup="704.04" NumCta="1120-1000-1000-8410-0365" Desc="Ganancia en venta de Activo Fijo" SubCtaDe="1120-1000-1000-8410" Nivel="2" Natur="A"/>
+	<catalogocuentas:Ctas CodAgrup="704.04" NumCta="1120-1000-1000-8410-0000" Desc="Ganancia en venta de Activo Fijo" SubCtaDe="1120-1000-1000-8410" Nivel="2" Natur="A"/>
+</catalogocuentas:Catalogo>

@@ -1,0 +1,129 @@
+<!--breadcrumbs start-->
+<div id="breadcrumbs-wrapper">
+
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <h5 class="breadcrumbs-title">Ver CFDIs</h5>
+                <ol class="breadcrumbs">
+                    <li></li>
+
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<!--breadcrumbs end-->
+
+
+<!--start container-->
+<div class="container">
+    <div class="row">
+        <div class="col l3">
+            <select id="mesConsulta">
+                <option selected disabled>Selecciona mes de consulta</option>
+                <option value='1' selected>01</option>
+                <option value='2'>02</option>
+                <option value='3'>03</option>
+                <option value='4'>04</option>
+                <option value='5'>05</option>
+                <option value='6'>06</option>
+                <option value='7'>07</option>
+                <option value='8'>08</option>
+                <option value='9'>09</option>
+                <option value='10'>10</option>
+                <option value='11'>11</option>
+                <option value='12'>12</option>
+            </select>
+        </div>
+        <div class="col l3">
+            <select id="year">
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019" selected>2019</option>
+                <option value="2020">2020</option>
+            </select>
+        </div>
+
+        <div class="col l3">
+            <br/>
+            <button id="botonConsultar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='obtenerCFDI($("#mesConsulta").val(), $("#year").val())'>Consultar</button>
+        </div>
+        <div class="col l3">
+            <br/>
+            <button id="botonActualizar" style="width: 100%;" class="btn waves-effect waves-light " type="button"
+                    onclick='actualizar()'>Actualizar</button>
+        </div>
+
+
+
+    </div>
+
+    <!--
+    <div class="row">
+        <div class="col l1">
+            <input type="radio" id="regular" name="tipo_busqueda" value="1" checked onclick='tipo_busqueda(1)'>
+            <label for="regular">Normal</label><br>
+        </div>
+        <div class="col l1">
+            <input type="radio" id="error" name="tipo_busqueda" value="2" onclick='tipo_busqueda(2)'>
+            <label for="error">Erroneo</label><br>
+        </div>
+        <div class="col l1">
+            <input type="radio" id="charges" name="tipo_busqueda" value="3" onclick='tipo_busqueda(3)'>
+            <label for="charges">Charges</label><br>
+        </div>
+        <div class="col l1">
+            <input type="radio" id="registro_contable" name="tipo_busqueda" value="4" onclick='tipo_busqueda(4)'>
+            <label for="registro_contable">Registro Contable</label><br>
+        </div>
+    </div>
+    -->
+
+    <div class="row">
+        <div class="col s12 white" style="min-height: 200px;" id="polizaContainerVerCfdi">
+            <style>
+                table{
+                    font-size: 9pt;
+                    line-height: 1;
+
+                }
+                td{
+                    padding: 2px !important;
+                }
+            </style>
+            <div id="progresoVerCfdi"></div>
+            <table class="striped" id="tablaVerCfdi">
+                <thead>
+                <tr>
+                    <th class='left-align'>#</th>
+                    <th>ID</th>
+                    <th>Fecha</th>
+                    <th>Folio</th>
+                    <th>Serie</th>
+                    <th>Nombre Emisor</th>
+                    <th>Nombre Receptor</th>
+                    <th class='right-align'>Total</th>
+                    <th>UUID</th>
+                </tr>
+                </thead>
+                <tbody id="tablaVerCfdiBody">
+
+                </tbody>
+            </table>
+            <div id="msgDivVerCfdi"></div>
+        </div>
+    </div>
+
+
+</div>
+
+<script type="text/javascript" src="/coesealy-conciliacion-cobranza/js/modules/importar.js"></script>
+<script type="text/javascript">
+        $(document).ready(function () {
+            $('select').material_select();
+        });
+    </script>

@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^dashboard/([^/.]+)/?$               dashboard/index.php?id=$1
+RewriteRule ^dashboard/cfdi/([^/.]+)/?$          dashboard/index.php?id=$1
+RewriteRule ^dashboard/cfdi/emitido/([^/.]+)/?$  dashboard/index.php?id=$1
+RewriteRule ^dashboard/cfdi/recibido/([^/.]+)/?$ dashboard/index.php?id=$1

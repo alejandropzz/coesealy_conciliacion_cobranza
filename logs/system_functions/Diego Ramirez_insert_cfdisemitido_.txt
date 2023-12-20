@@ -1,0 +1,7 @@
+Diego Ramirez|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|05-10-2018 16:59:38|
+Diego Ramirez|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|05-10-2018 17:06:51|
+Diego Ramirez|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|18-10-2018 10:38:37|
+Diego Ramirez|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|18-10-2018 10:39:08|
+Diego Ramirez|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|31-10-2018 16:43:06|
+Diego Ramirez|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|31-10-2018 16:44:23|
+Diego Ramirez|ERROR|FAILED TO INSERT CFDI| TIPO:emitido|["23000",1048,"Column 'uuid' cannot be null"]|31-10-2018 16:47:26|

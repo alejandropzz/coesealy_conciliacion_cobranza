@@ -4,7 +4,6 @@ class JSONObject {
    
 
     public function setObjectFromJSON($jsonData) {
-        
         $data=json_decode($jsonData, true);
         foreach ($data AS $key => $value) {
             if (is_array($value)) {

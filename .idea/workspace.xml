@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b210a828-4710-413f-96c9-c7317fed8b30" name="Default Changelist" comment="" />
+    <list default="true" id="b210a828-4710-413f-96c9-c7317fed8b30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/commun/Comun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/contabilidad/api/comun/getYears.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/contabilidad/api/cxc/extraer_cfdi_by_folio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/cxc/reportes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/armado_folio_cxc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/commun/JSONObject.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/commun/JSONObject.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/user_access/user_access.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/user_access/user_access.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +44,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,24 +55,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/coesealy-conciliacion-cobranza/backend/contabilidad/api/importar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/coesealy-conciliacion-cobranza/backend/contabilidad/api/cxc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\backend\contabilidad\api\cxc" />
+      <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\views\cxc" />
       <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\backend\contabilidad\api\importar" />
       <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\views" />
       <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\backend\contabilidad\api\reportePago" />
-      <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\js\modules" />
-      <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\backend\contabilidad\api\armado" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\coesealy-conciliacion-cobranza\views" />
     </key>
   </component>
   <component name="RunManager">
@@ -254,6 +271,8 @@
       <workItem from="1701987529260" duration="345000" />
       <workItem from="1702515476667" duration="2538000" />
       <workItem from="1702588524133" duration="689000" />
+      <workItem from="1703783431231" duration="607000" />
+      <workItem from="1705795930037" duration="9074000" />
     </task>
     <servers />
   </component>

@@ -105,7 +105,6 @@
                         <li>
                             <ul class="collapsible collapsible-accordion">
 
-
                                 <li id="menuImportar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Importar</a>
                                     <div class="collapsible-body">
 
@@ -148,35 +147,35 @@
                                 -->
                             </div>
                         </li>
-                        <li id="menuConsultar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Consultar</a>
-                            <div class="collapsible-body">
+                                <li id="menuConsultar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Consultar</a>
+                                    <div class="collapsible-body">
 
-                                <ul>
-                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCfdis" >Cfdis</a></li>
-                                </ul>
-                                <ul>
-                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCuentasCobrar" >Facturas</a></li>
-                                </ul>
-                                <ul>
-                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado" >Armado Por Folio</a></li>
-                                </ul>
-                                <ul>
-                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado_pendiente" >Armados Pendientes</a></li>
-                                </ul>
-                                <ul>
-                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado_rp" >Armado RP</a></li>
-                                </ul>
-                                <!--
-                                <ul>
-                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_reporte_cobranza" >Consultar Cobranza</a></li>
-                                </ul>
-                                <ul>
-                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_edc" >Consultar Estado Cuenta</a></li>
-                                </ul>
-                                -->
-                            </div>
-                        </li>
-                        <li id="menuProcesar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Procesar</a>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCfdis" >Cfdis</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCuentasCobrar" >Facturas</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado" >Armado Por Folio</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado_pendiente" >Armados Pendientes</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado_rp" >Armado RP</a></li>
+                                        </ul>
+                                        <!--
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_reporte_cobranza" >Consultar Cobranza</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_edc" >Consultar Estado Cuenta</a></li>
+                                        </ul>
+                                        -->
+                                    </div>
+                                </li>
+                                <li id="menuProcesar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Procesar</a>
                             <div class="collapsible-body">
 
                                 <!--
@@ -205,7 +204,13 @@
 
                                     </div>
                                 </li>
-
+                                <li id="menuReportesCXC" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Reportes CXC</a>
+                                    <div class="collapsible-body">
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/armado_folio_cxc" >Armado por folio CXC</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
                                 <!-- <li id="mnuErrors" class="bold "><a href="/coesealy-conciliacion-cobranza/dashboard/errores" class="waves-effect waves-cyan"><i class="mdi-alert-error"></i> Errores</a> -->
                             </ul>
                         </li>
@@ -306,7 +311,6 @@
                 console.log("recibe del naegadorP cargar: " + tipo);
                 cargarVista("importar-cfdi", null, true);
             });
-
             crossroads.parse(document.location.pathname);
         </script>
 

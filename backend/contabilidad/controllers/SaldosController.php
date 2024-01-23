@@ -101,6 +101,58 @@ class SaldosController extends DatabaseEntity {
             }
         }
     }
+    function getSaldoByFolio($folio)
+    {
+        $sql =  "SELECT * FROM `saldos` WHERE folio=$folio;";
+        $response=new ResponseSaldos();
+
+        try {
+
+            $stmt = parent::getConnection()->prepare($sql);
+            //$stmt->bindParam(':id', $id);
+
+
+            if ($stmt->execute())
+            {
+                $value = [];
+
+                while ($row = $stmt->fetch()) {
+                    $saldosTemp = new saldos();
+                    $saldosTemp->parseValuesFromSQL($row);
+                    array_push($value, $saldosTemp);
+                }
+
+                if (sizeof($value) > 0)
+                {
+
+                    $response->saldo=$value[0];
+                    $response->setStatus(0);
+                    return $response;
+                }
+                else
+                {
+                    $response->saldo=null;
+                    $response->setStatus(-1);
+                    return $response;
+                }
+            }
+            else
+            {
+                $response->saldo=null;
+                $response->setStatus(-1);
+                return $response;
+            }
+
+        }
+        catch (Exception $e) {
+            {
+                $response->saldo=null;
+                $response->setStatus(-1);
+                return $response;
+            }
+        }
+    }
+
     function guardarSaldo()
     {
         $logger = new Logger();

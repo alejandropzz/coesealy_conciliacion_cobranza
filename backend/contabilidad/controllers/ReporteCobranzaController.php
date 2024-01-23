@@ -111,7 +111,7 @@ class ReporteCobranzaController extends DatabaseEntity {
     }
     function getCobranzaByFolio($folio)
     {
-        $sql =  "SELECT * FROM `reporte_cobranza` WHERE folio=:folio ORDER  BY deposit_date;";
+        $sql =  "SELECT * FROM `reporte_cobranza` WHERE ABS(folio)=:folio ORDER  BY deposit_date;";
         $response=new ResponseReporteCobranza();
 
         try {

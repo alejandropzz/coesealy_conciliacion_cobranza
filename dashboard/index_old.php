@@ -104,10 +104,110 @@
                         </li>
                         <li>
                             <ul class="collapsible collapsible-accordion">
+
+                                <li id="menuImportar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Importar</a>
+                                    <div class="collapsible-body">
+
+                                        <!--
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/subir-cuentas-cobrar" >Cargar Facturas</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCuentasCobrar" >Consultar Facturas</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/subir_reporte_cobranza" >Cargar Reporte cxc</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_reporte_cobranza" >Consultar Reporte cxc</a></li>
+                                        </ul>
+                                        -->
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/import_cfdi" >Importar CFDIs CXC</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/import_cfdi_cxp" >Importar CFDIs CXP</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/import_diot" >Importar Diot</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/import_factura" >Importar Facturas</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/import_saldo" >Importar Saldos CXC</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/import_saldo_cxp" >Importar Saldos CXP</a></li>
+                                        </ul>
+                                        <!--
+                                <ul>
+                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/import_edc" >Importar Estado Cuenta</a></li>
+                                </ul>
+                                -->
+                            </div>
+                        </li>
+                                <li id="menuConsultar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Consultar</a>
+                                    <div class="collapsible-body">
+
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCfdis" >Cfdis</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCuentasCobrar" >Facturas</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado" >Armado Por Folio</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado_pendiente" >Armados Pendientes</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_armado_rp" >Armado RP</a></li>
+                                        </ul>
+                                        <!--
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_reporte_cobranza" >Consultar Cobranza</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_edc" >Consultar Estado Cuenta</a></li>
+                                        </ul>
+                                        -->
+                                    </div>
+                                </li>
+                                <li id="menuProcesar" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Procesar</a>
+                            <div class="collapsible-body">
+
+                                <!--
+                                <ul>
+                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/subir-cuentas-cobrar" >Cargar Facturas</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a  href="/coesealy-conciliacion-cobranza/dashboard/verCuentasCobrar" >Consultar Facturas</a></li>
+                                </ul>
+                                -->
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ligar_cobranza" >Consolidar Saldos</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/liga_manual_cfdi_rp" >Crear Saldo RP Manual</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ligar_rp" >Consolidar RP</a></li>
+                                        </ul>
+
+                                        <!--
+                                        <ul>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/ver_reporte_cobranza" >Consultar Reporte cxc</a></li>
+                                        </ul>
+                                        -->
+
+                                    </div>
+                                </li>
                                 <li id="menuReportesCXC" class="bold"><a  class="collapsible-header waves-effect waves-cyan"><i class="mdi-content-content-paste"></i>Reportes CXC</a>
                                     <div class="collapsible-body">
                                         <ul>
-                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/armado_folio_cxc" >Armado por folio CXC</a></li>
+                                            <li><a  href="/coesealy-conciliacion-cobranza/dashboard/cxc/armado_folio_cxc" >Armado por folio CXC</a></li>
                                         </ul>
                                     </div>
                                 </li>
@@ -211,7 +311,7 @@
                 console.log("recibe del naegadorP cargar: " + tipo);
                 cargarVista("importar-cfdi", null, true);
             });
-
+            
             crossroads.parse(document.location.pathname);
         </script>
 

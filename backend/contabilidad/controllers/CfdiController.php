@@ -207,7 +207,6 @@ class CfdiController extends DatabaseEntity {
                 $value = [];
                 while ($row = $stmt->fetch())
                     array_push($value, $row);
-
                 if (sizeof($value) > 0)
                 {
                     $response->cfdi=$value[0];

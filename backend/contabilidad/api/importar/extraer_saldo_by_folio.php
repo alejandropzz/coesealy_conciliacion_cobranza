@@ -1,4 +1,4 @@
-extraer_saldo_by_id.php<?php
+<?php
 session_start();
 
 require __DIR__ . '/../../../commun/Logger.php';
@@ -14,13 +14,13 @@ $response = new ResponseStatus();
 if (isset($_SESSION["id"]) && !empty($_SESSION["id"]) && isset($_SESSION["idCompany"]) && !empty($_SESSION["idCompany"])) {
     try {
 
-        $id=filter_input(INPUT_GET, 'id');
+        $folio=filter_input(INPUT_GET, 'folio');
         $year=filter_input(INPUT_GET, 'year');
 
         $saldosModel= new saldos();
         $saldosController = new SaldosController($saldosModel, $year);
 
-        $response = $saldosController->getSaldoById($id);
+        $response = $saldosController->getSaldoByFolio($folio);
 
 
     } catch (Exception $e) {
